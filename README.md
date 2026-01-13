@@ -10,3 +10,8 @@
 - Fixed up the Menu
 - Fixed some bugs regarding expressions (Thought I replaced them all, oops.)
 - Removed Noli
+
+
+1.2
+-Fixed wrong expressions with sword dialogue
+-Added firebrand dialogue
