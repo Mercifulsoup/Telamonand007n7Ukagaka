@@ -13,5 +13,5 @@
 
 
 1.2
--Fixed wrong expressions with sword dialogue
--Added firebrand dialogue
+- Fixed wrong expressions with sword dialogue
+- Added firebrand dialogue
